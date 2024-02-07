@@ -23,7 +23,7 @@ $$\sigma^2_{\Delta x} = 2\frac{\sigma^2_r}{g^2}+\frac{2}{g}x$$
 
 [1]: Steve B. Howell, "Handbook of CCD Astronomy", Cambridge University Press, 2006
 
-**Дедлайн 23 февраля 2023 в 23:55**
+**Дедлайн 22 февраля 2023 в 23:55**
 
 Вы должны сделать следующее:
 
