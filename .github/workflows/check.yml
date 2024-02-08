@@ -31,7 +31,7 @@ jobs:
       run: test -e ./chi2.png
     - name: Try ccd.py
       run: |
-        cp ./.github/workflows/miniccd.fits.gz ./ccd.fits.gz
+        cp ./.github/workflows/miniccd.fits.gz ./ccd_v2.fits.gz
         rm -f ./ccd.png
         rm -f ./ccd.json
         python ccd.py
